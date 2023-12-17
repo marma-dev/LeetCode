@@ -1,7 +1,7 @@
 # LeetCode
 Repository with Leet Code Solution
 
-## Arrays & Hashing
+## 1. Arrays & Hashing
 | Name   |      Problem Statement     |  Solution |
 |----------|:-------------:|------:| 
 | Contains Duplicate | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [C#](1.%20Arrays%20%26%20Hashing/217.%20Contains%20Duplicate.cs) | 
@@ -12,3 +12,8 @@ Repository with Leet Code Solution
 | Product of Array Except Self | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | [C#](1.%20Arrays%20%26%20Hashing/238.%20Product%20of%20Array%20Except%20Self.cs) |
 | Valid Sudoku | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | [C#](1.%20Arrays%20%26%20Hashing/36.%20Valid%20Sudoku.cs) |
 | Longest Consecutive Sequence | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | [C#](1.%20Arrays%20%26%20Hashing/128.%20Largest%20Consecutive%20Sequence.cs) |
+
+## 2.1 Two Pointers
+| Name   |      Problem Statement     |  Solution |
+|----------|:-------------:|------:| 
+| Valid Palindrome | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [C#](2.1%20Two%20Pointers/125.%20Valid%20Palindrome.cs) | 
